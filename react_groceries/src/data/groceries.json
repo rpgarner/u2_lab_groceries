@@ -1,0 +1,23 @@
+ [
+    {
+        "item": "beer",
+        "brand": "New Belguim",
+        "units": "6 pack",
+        "quantity": 2,
+        "isPurchased": false
+      },
+      {
+        "item": "burgers",
+        "brand": "natural feed",
+        "units": "1lb",
+        "quantity": 3,
+        "isPurchased": false
+      },
+      {
+        "item": "chips",
+        "brand": "boulder",
+        "units": "bag",
+        "quantity": 2,
+        "isPurchased": false
+      }
+]
